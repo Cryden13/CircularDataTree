@@ -1,0 +1,248 @@
+{
+    "Anger": {
+        "Critical": [
+            "Disapproving",
+            "Judgemental",
+            "Sceptical"
+        ],
+        "Frustrated": [
+            "Aggravated",
+            "Agitated"
+        ],
+        "Rage": [
+            "Furious",
+            "Infuriated"
+        ],
+        "Bitter": [
+            "Violated",
+            "Indignant"
+        ],
+        "Envious": [
+            "Resentful",
+            "Jealous"
+        ],
+        "Hostile": [
+            "Aggressive",
+            "Provoked"
+        ],
+        "Humiliated": [
+            "Ridiculed",
+            "Disrespected"
+        ],
+        "Hatred": [
+            "Betrayed",
+            "Loathing"
+        ],
+        "Annoyed": [
+            "Irritated",
+            "Exasperated"
+        ]
+    },
+    "Happiness": {
+        "Excited": [
+            "Eager",
+            "Energetic",
+            "Enthusiastic"
+        ],
+        "Content": [
+            "Pleased",
+            "Satisfied",
+            "Free"
+        ],
+        "Playful": [
+            "Cheeky",
+            "Amused"
+        ],
+        "Proud": [
+            "Triumphant",
+            "Successful",
+            "Confident"
+        ],
+        "Optimistic": [
+            "Hopeful",
+            "Inspired",
+            "Eager"
+        ],
+        "Accepted": [
+            "Respected",
+            "Valued"
+        ],
+        "Powerful": [
+            "Courageous",
+            "Creative"
+        ],
+        "Cheerful": [
+            "Jovial",
+            "Blissful",
+            "Delighted"
+        ],
+        "Elated": [
+            "Jubilant",
+            "Euphoric"
+        ],
+        "Enthralled": [
+            "Enraptured",
+            "Enchanted"
+        ],
+        "Interested": [
+            "Curious",
+            "Inquisitive"
+        ]
+    },
+    "Surprise": {
+        "Startled": [
+            "Stunned",
+            "Shocked"
+        ],
+        "Confused": [
+            "Disillusioned",
+            "Perplexed"
+        ],
+        "Amazed": [
+            "Astonished",
+            "Awe-struck"
+        ],
+        "Overcome": [
+            "Speechless",
+            "Astounded"
+        ],
+        "Moved": [
+            "Stimulated",
+            "Touched"
+        ]
+    },
+    "Negative": {
+        "Bored": [
+            "Indifferent",
+            "Apathetic"
+        ],
+        "Busy": [
+            "Pressured",
+            "Rushed"
+        ],
+        "Stressed": [
+            "Overwhelmed",
+            "Out of control"
+        ],
+        "Tired": [
+            "Sleepy",
+            "Unfocussed"
+        ],
+        "Distant": [
+            "Numb",
+            "Withdrawn"
+        ]
+    },
+    "Disgust": {
+        "Repelled": [
+            "Hesitant",
+            "Reluctant"
+        ],
+        "Awful": [
+            "Detestable",
+            "Nauseated"
+        ],
+        "Affronted": [
+            "Revolted",
+            "Appalled"
+        ],
+        "Contempt": [
+            "Dismissive",
+            "Repugnance"
+        ]
+    },
+    "Sadness": {
+        "Neglected": [
+            "Isolated",
+            "Lonely",
+            "Abandoned"
+        ],
+        "Lost": [
+            "Victimised",
+            "Fragile"
+        ],
+        "Despair": [
+            "Empty",
+            "Depressed",
+            "Sorrowful",
+            "Grief",
+            "Powerless"
+        ],
+        "Ashamed": [
+            "Regretful",
+            "Remorseful",
+            "Guilty",
+            "Embarrassed"
+        ],
+        "Suffering": [
+            "Agony",
+            "Hurt"
+        ],
+        "Disappointed": [
+            "Dismayed",
+            "Displeased"
+        ],
+        "Rejected": [
+            "Persecuted",
+            "Excluded"
+        ]
+    },
+    "Fear": {
+        "Nervous": [
+            "Anxious",
+            "Worried",
+            "Dread"
+        ],
+        "Terrified": [
+            "Hysterical",
+            "Panicky"
+        ],
+        "Insecure": [
+            "Inadequate",
+            "Inferior",
+            "Weak",
+            "Insignificant",
+            "Worthless"
+        ],
+        "Scared": [
+            "Helpless",
+            "Frightened"
+        ],
+        "Horrified": [
+            "Mortified",
+            "Aghast"
+        ],
+        "Threatened": [
+            "Exposed",
+            "Vulnerable"
+        ]
+    },
+    "Love": {
+        "Affectionate": [
+            "Fondness",
+            "Romantic"
+        ],
+        "Longing": [
+            "Attraction",
+            "Sentimental"
+        ],
+        "Desire": [
+            "Infatuated",
+            "Passionate",
+            "Aroused"
+        ],
+        "Tenderness": [
+            "Compassion",
+            "Care"
+        ],
+        "Peaceful": [
+            "Satisfied",
+            "Relieved",
+            "Thankful"
+        ],
+        "Trusting": [
+            "Sensitive",
+            "Intimate"
+        ]
+    }
+}
